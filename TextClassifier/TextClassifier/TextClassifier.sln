@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextClassifier", "TextClassifier\TextClassifier.csproj", "{BDCFB3CF-71C5-4C72-9D3F-E6F8B2C78E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCFB3CF-71C5-4C72-9D3F-E6F8B2C78E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCFB3CF-71C5-4C72-9D3F-E6F8B2C78E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCFB3CF-71C5-4C72-9D3F-E6F8B2C78E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCFB3CF-71C5-4C72-9D3F-E6F8B2C78E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4EFAD4C-FB46-4971-A9AD-99B3D730F10D}
+	EndGlobalSection
+EndGlobal
