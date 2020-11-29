@@ -4,5 +4,7 @@ I thoought it may have been nice for Microsoft to include the code on github.
 
 So here you go.
 
-More samples will be added as time passes
+More samples will be added as time passes.
+
+The first section is for [Editor Item Template](https://docs.microsoft.com/en-us/visualstudio/extensibility/creating-an-extension-with-an-editor-item-template?view=vs-2019)
 
