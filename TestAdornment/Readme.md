@@ -1,4 +1,4 @@
-This subpath is for the ```TextAdornment``` sample.  It adds an outline in the text in the buffer.
+This subpath is for the ```TextAdornment``` sample.  It adds an outline in the text in the buffer and the simple description is found [here in the docs](https://docs.microsoft.com/en-us/visualstudio/extensibility/creating-an-extension-with-an-editor-item-template?view=vs-2019#create-a-text-relative-adornment-extension)
 
 The output looks like this:
 
