@@ -47,9 +47,9 @@ The `EditorClassifier1Provider` is exported here as an `IClassifierProvider` int
 ```
 
 The `GetClassificationSpans` method inside `EditorClassifier.cs` is called whenever the edtior buffer changes 
-so that the extension can return the set of spans which are to be classified after that change.
+so that the extension can return the set of `SnapshotSpan`s which are to be classified after that change.
 
-In our simple case, we just return one representing the entire snspshot span.
+In our simple case, we just return one representing the entire `SnapshotSpan`.  After all, it is just a *simple* sample.
 
 ```Csharp
         public IList<ClassificationSpan> GetClassificationSpans(SnapshotSpan span)
