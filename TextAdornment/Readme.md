@@ -1,5 +1,5 @@
 # TextAdornment Using an Editor Item Template
-This subpath is for the ```TextAdornment``` sample.  It adds an outline in the text in the buffer.
+This subpath is for the ```TextAdornment``` sample.  It adds an outline around certain text (determined by the extension itself) within the editor buffer.
 
 ## Steps
 In this case, all that is necessary is to create a VSIX Project and add a template item for Text Adornment.
