@@ -9,8 +9,8 @@ More samples will be added as time passes.
 
 ## Other Helpful Notes
 
-[Clearing the MEF Component Cache](Component-cache.md)
+[Clearing the MEF Component Cache](.\Component-cache.md)
 
-[Managing Extensions in the Experimental Instance](managing-extensions.md)
+[Managing Extensions in the Experimental Instance](.\managing-extensions.md)
 
 
