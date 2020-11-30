@@ -1,10 +1,16 @@
 # MSVSExtensionWalkThrus
-This repo contains the full source code for each of the Visual Studio Extensibility Examples.  Instead of having to go the docs and step through the examples, 
-I thoought it may have been nice for Microsoft to include the code on github.
+This repo contains the full source code for each of the Visual Studio Extensibility Examples.  Instead of having to go the docs and step through the examples, just clone this repo and enjoy.
 
-So here you go.
+I thought it may have been nice for Microsoft to include the code on github, but they didn't. so I'm adding it.
+
+These were produced using Visual Studio 2019 16.8.2 and greater.
 
 More samples will be added as time passes.
 
-The first section is for [Editor Item Template](https://docs.microsoft.com/en-us/visualstudio/extensibility/creating-an-extension-with-an-editor-item-template?view=vs-2019)
+## Other Helpful Notes
+
+[Clearing the MEF Component Cache](Component-cache.md)
+
+[Managing Extensions in the Experimental Instance](managing-extensions.md)
+
 
