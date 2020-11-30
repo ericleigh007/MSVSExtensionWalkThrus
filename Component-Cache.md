@@ -12,15 +12,17 @@ For `vs-dir`, it is most likely that the directory will be on the only one on yo
 the experimental instance of Visual Studio.  That directory suffix is set in the Debug settings for the experimental instance, which is part of the Visual Studio Extensibility
 extension workings.
 
-[debug settings plate]
+![Visual Studio Extension Debug Log switch](https://user-images.githubusercontent.com/7321962/100649961-1eef0500-333b-11eb-97f6-b0cd4074769b.jpg)
 
 So the directory for the Visual Studio experimental instance should look very similar to this:
 
-[exp dir plate]
+![Visual Studio Experimental Instance Directory](https://user-images.githubusercontent.com/7321962/100649946-18608d80-333b-11eb-80b7-6a8cb552eac2.jpg)
 
 Underneath this directory, you'll find a few directories which will require their files to be deleted.
 
-[exp dir cache delete plate]
+![Visual Studio Component Level Cache Directory](https://user-images.githubusercontent.com/7321962/100649976-26161300-333b-11eb-8fff-bb48035a4773.jpg)
+
+![Visual Studio Component Level Cache Delete ink](https://user-images.githubusercontent.com/7321962/100649996-2ca48a80-333b-11eb-8d23-b4fe473bfd4b.jpg)[debug settings plate]
 
 
 
