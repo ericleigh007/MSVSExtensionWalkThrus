@@ -28,7 +28,7 @@ This code associates the adornment with a specific `ContentType` and establishes
         private AdornmentLayerDefinition editorAdornmentLayer;
 ```
 
-It should be noted that the `Text` 'ContentType` is a base content type from which many, if not all of the content types in Visual Studio derive.
+It should be noted that the `ContentType` **text**  is a base content type from which many, if not all of the content types in Visual Studio derive.
 Therefore, associating with this content type will affect most files in the editor.
 
 ## Output
