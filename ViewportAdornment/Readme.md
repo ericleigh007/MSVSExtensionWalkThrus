@@ -80,4 +80,4 @@ The output looks like this:
 
 ![Visual Studio Extension ViewportAdornment walkthru display](https://user-images.githubusercontent.com/7321962/100636399-94ea7080-3329-11eb-9a0e-dfd66b80f3d0.jpg)
 
-**Note** If all the samples are done together they will interact (because all of the extensions will be loaded in the experimental instance).
+**Note** If all the samples are done together they will interact (because all of the extensions will be loaded in the experimental instance). Here, you see BOTH the `TextAdornment` and `ViewportAdornment` extension both loaded.
