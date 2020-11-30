@@ -1,4 +1,4 @@
-# TextAdornment Using an Editor Item Template
+# TextClassifier Using an Editor Item Template
 This subpath is for the ```TextClassifier``` sample.  It adds a highlight (of a type hardcoded within the extension) to the entire editor buffer.
 
 ## Steps
@@ -68,3 +68,4 @@ See the actual code for all the further gory details.
 ## Output
 The output looks like this:
 
+![EditorClassifier Result Console App](https://user-images.githubusercontent.com/7321962/100626523-d70db500-331d-11eb-9d0c-6bc1497d40a7.jpg)
