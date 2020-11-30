@@ -15,13 +15,17 @@ and increase the debug-loop time of your development.
 
 To manage the extensions, just go to the `Extensions->Managed Extensions` menu, and select the `Installed` node of the tree.
 
-[managed extensions plate]
+![Visual Studio Extensions - disable extension for previous example](https://user-images.githubusercontent.com/7321962/100652056-485d6000-333e-11eb-8a2d-5ff41a7e4fe9.jpg)
 
 Once an extension is disabled, or even uninstalled, you'll notice no difference until you exit Visual Studio, because extension changes are deferred until Visual Studio
 is no longer running.
 
-[deferred extension]
+A few to several seconds after Visual Studio exits, a window resembling this will be displayed.
 
-[modify block]
+![Visual studio uninstall window](https://user-images.githubusercontent.com/7321962/100652087-4f846e00-333e-11eb-9577-c6de03f4af31.jpg)
 
+Followed by this type of window.
 
+![Visual Studio extension uninstall prompt](https://user-images.githubusercontent.com/7321962/100652110-56ab7c00-333e-11eb-9bef-162717421ce7.jpg)
+
+After pressing the `Modify` button, it is common to have to wait several seconds or longer before the install progress is displayed, so be patient.
