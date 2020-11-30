@@ -62,7 +62,7 @@ The `OnLayoutChanged` method responds to any changes, so the layer may be drawn 
         }
 ```
 
-See the actual code for all the further gory details.   Also, it is instructive to set a break within the extension in the experimental instance, so the way the extension code is called may be studied.  This helps one get a bit more of a feel for how thing work behind the scenes.
+See the actual code for all the further gory details.   Also, it is instructive to set a break within the extension in the experimental instance, so the way the extension code is called may be studied.  This helps one get a bit more of a feel for how things work behind the scenes.
 
 ## Output
 The output looks like this:
