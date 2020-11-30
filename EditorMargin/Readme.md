@@ -56,6 +56,6 @@ See the actual code for all the further gory details.
 ## Output
 The output looks like this:
 
-![Visual Studio Extension ViewportAdornment walkthru display](https://user-images.githubusercontent.com/7321962/100636399-94ea7080-3329-11eb-9a0e-dfd66b80f3d0.jpg)
+![Visual Studio Extension EditorMargin output](https://user-images.githubusercontent.com/7321962/100644553-5bb6fe00-3333-11eb-9da7-7ab2f4caa896.jpg)
 
 **Note** If all the samples are done together they will interact (because all of the extensions will be loaded in the experimental instance). Here, you see BOTH the `TextAdornment` and `ViewportAdornment` extension both loaded.
