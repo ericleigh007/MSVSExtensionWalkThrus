@@ -60,6 +60,8 @@ namespace ViewportAdornment
 
             this.view = view;
 
+#region Pre-defined Adornment
+
             var brush = new SolidColorBrush(Colors.BlueViolet);
             brush.Freeze();
             var penBrush = new SolidColorBrush(Colors.Red);
@@ -81,6 +83,8 @@ namespace ViewportAdornment
             {
                 Source = drawingImage,
             };
+
+#endregion
 
             this.adornmentLayer = view.GetAdornmentLayer("ViewportAdornment1");
 
