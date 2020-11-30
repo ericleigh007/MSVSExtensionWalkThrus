@@ -22,7 +22,7 @@ Underneath this directory, you'll find a few directories which will require thei
 
 ![Visual Studio Component Level Cache Directory](https://user-images.githubusercontent.com/7321962/100649976-26161300-333b-11eb-8fff-bb48035a4773.jpg)
 
-![Visual Studio Component Level Cache Delete ink](https://user-images.githubusercontent.com/7321962/100649996-2ca48a80-333b-11eb-8d23-b4fe473bfd4b.jpg)[debug settings plate]
+![Visual Studio Component Level Cache Delete ink](https://user-images.githubusercontent.com/7321962/100649996-2ca48a80-333b-11eb-8d23-b4fe473bfd4b.jpg)
 
 
 
