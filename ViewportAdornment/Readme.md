@@ -1,4 +1,4 @@
-# TextClassifier Using an Editor Item Template
+# ViewportAdornment Using an Editor Item Template
 This subpath is for the ```ViewportAdornment``` sample.  It adds a square to the upper right-hand corner of the viewport within the editor.
 
 ## Steps
