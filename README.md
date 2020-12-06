@@ -7,7 +7,7 @@ These were produced using Visual Studio 2019 16.8.2 and greater.
 
 More samples will be added as time passes.
 
-*ericleihg007 and ELSSystems make no representations regarding this repo's fitness for purpose.  It is offered only as an assistance in understanding the offical docs*
+*ericleigh007 and ELSSystems make no representations regarding this repo's fitness for purpose.  It is offered only as an assistance in understanding the offical docs*
 
 ## Other Helpful Notes
 
