@@ -11,7 +11,9 @@ More samples will be added as time passes.
 
 ## Other Helpful Notes
 
-[Clearing the MEF Component Cache](Component-Cache.md)
+When developing multiple extensions, the MEF cache which is used to combine Visual Studio functionality can get unweildy, or just plain corrupted.  
+- One way to fix this is to [**Clear the MEF Component Cache**](Component-Cache.md)
+- Another way is to [**Reset the experimental instance**](https://docs.microsoft.com/en-us/visualstudio/extensibility/creating-an-extension-with-a-menu-command?view=vs-2019#clean-up-the-experimental-environment)
 
 [Managing Extensions in the Experimental Instance](Managing-Extensions.md)
 
