@@ -103,8 +103,13 @@ See the actual code for all the further gory details.
 ## Output
 When the template is first invoked, the output looks like this:
 
-- The menu item is added that has a lower-level menu that invokes a command.
+- The menu item is added at the top level (under EXTENSIONS)
 
+![Visual Studio Extension - TopLevelMenu first level](https://user-images.githubusercontent.com/7321962/101289009-8a304f80-37f1-11eb-8445-083f044da318.jpg)
+
+- A nested menu under that invokes the command that displays a test dialog.
+
+![Visual Studio Extensions  - TopLevelMenu output](https://user-images.githubusercontent.com/7321962/101289011-8ac8e600-37f1-11eb-84ce-874e65a933bc.gif)
 
 
 **Note** If all the samples are done together they will interact.  See the top-level readme for more information on managing the development of multiple extensions.
