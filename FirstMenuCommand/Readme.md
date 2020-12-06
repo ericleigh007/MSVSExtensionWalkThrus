@@ -88,13 +88,20 @@ See the actual code for all the further gory details.
 ## Output
 When the template is first invoked, the output looks like this:
 
+- The extension is shown on the extensions installed menu.
+
+![Visual Studio Extensions - FirstMenuCommand extension on menu](https://user-images.githubusercontent.com/7321962/101282755-c0100c80-37ce-11eb-9e32-dd1082c8c01b.png)
+
 - The menu item is added.
 
+![Visual Studio Extension - FirstMenuCommand Invoke FirstCommand](https://user-images.githubusercontent.com/7321962/101282754-bf777600-37ce-11eb-8b91-2dbb39c418ea.png)
 
 - At first, it merely pops a dialog
 
+![Visual Studio Extension FirstMenuCommand - invoked showing messagebox](https://user-images.githubusercontent.com/7321962/101282753-bf777600-37ce-11eb-824d-96ffdddc91fa.jpg)
 
 - After modification, it invokes notepad.exe
 
+![Visual Studio Extensions - FirstMenuCommand - invoke Notepad](https://user-images.githubusercontent.com/7321962/101282751-be464900-37ce-11eb-969d-9f44606ce06d.gif)
 
 **Note** If all the samples are done together they will interact.  See the top-level readme for more information on managing the development of multiple extensions.
